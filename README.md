@@ -43,10 +43,11 @@
 ## My GitHub Stats
 ![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshmhapankar2478&show_icons=true&count_private=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshmhapankar2478&size_weight=0.5&count_weight=0.5&layout=compact)
+![](https://komarev.com/ghpvc/?username=your-github-siddheshmhapankar2478&color=green)
 
 ## My GitHub Contributions
 ![Siddhesh's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=siddheshmhapankar2478)
-[![Profile Views](https://img.shields.io/github/followers/your-username?label=Profile%20Views&style=social)](https://github.com/siddheshmhapankar2478)
+
 
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddheshmhapankar2478&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)

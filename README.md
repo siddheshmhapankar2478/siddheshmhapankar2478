@@ -47,7 +47,7 @@
 
 
 ## My GitHub Contributions
-![Siddhesh's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=siddheshmhapankar2478)
+![Siddhesh's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=siddheshmhapankar2478&theme=transparent)
 
 
 ## GitHub Profile Trophy

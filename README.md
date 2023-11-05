@@ -49,6 +49,11 @@
 ## My GitHub Contributions
 ![Siddhesh's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=siddheshmhapankar2478&theme=transparent)
 
+## My profiles on various platforms.
+<p>
+  <a href="https://leetcode.com/siddheshmhapankar2478/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" width="350vw" alt="LeetCode"/></a><br>
+</p>
+
 
 ## GitHub Profile Trophy
 

@@ -43,13 +43,13 @@
 
 ## My GitHub Stats
 ![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshmhapankar2478&show_icons=true&count_private=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshmhapankar2478&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshmhapankar2478&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
 
 
 ## My GitHub Contributions
 ![Siddhesh's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=siddheshmhapankar2478&theme=transparent)
 
-## My profiles on various platforms.
+## My Coding profile
 <p>
   <a href="https://leetcode.com/siddheshmhapankar2478/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" width="350vw" alt="LeetCode"/></a><br>
 </p>

@@ -53,4 +53,4 @@
 ## GitHub Profile Trophy
 
 [![trophy-Dark](https://github-profile-trophy.vercel.app/?username=siddheshmhapankar2478&margin-w=15&theme=matrix#fresh#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy-Light](https://github-profile-trophy.vercel.app/?username=siddheshmhapankar2478&margin-w=15&theme=default#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![trophy-Light](https://github-profile-trophy.vercel.app/?username=siddheshmhapankar2478&margin-w=15&theme=flat#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)

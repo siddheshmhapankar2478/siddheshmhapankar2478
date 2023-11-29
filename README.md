@@ -10,9 +10,6 @@
 
 🤝 Let's collaborate and innovate!
 
-## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddheshmhapankar2478/)
-<a href="https://siddhesh-portfolio-website.vercel.app/" target="_blank">Portfolio</a>
 
 ## Connect with me 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddheshmhapankar2478/)
